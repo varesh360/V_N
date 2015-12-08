@@ -1,0 +1,10 @@
+
+*****************************************************************************
+Dec 08,2015 10:37:00 [info]   Execution Started of Test Class scripts.Login >> testUserLogin
+*****************************************************************************
+Dec 08,2015 10:37:14 [info]  Open the application
+Dec 08,2015 10:37:15 [info]  Entered the email
+Dec 08,2015 10:37:17 [info]  Entered the password
+Dec 08,2015 10:37:19 [info]  Clicked on Login
+Dec 08,2015 10:37:19 [info]  User is logged in succesfully
+Dec 08,2015 10:37:22 [info]  Logged out from application

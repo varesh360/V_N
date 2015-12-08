@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AppDetails>
+	<SetUp>
+		<URL><![CDATA[http://5b3df342-rsurayapalem.node.tutum.io/]]></URL>
+		<Email><![CDATA[lawfirm-user1@mail.com]]></Email>
+		<Password><![CDATA[pass1234A@]]></Password>
+		<AdminUsername><![CDATA[appdetex-admin1@mail.com]]></AdminUsername>
+		<AdminPassword><![CDATA[pass1234A@]]></AdminPassword>
+		<ChangePassword><![CDATA[Password@1234]]></ChangePassword>
+		<Browser><![CDATA[Firefox]]></Browser>
+		<Timeout><![CDATA[30]]></Timeout>
+		<AccountName><![CDATA[testaccount]]></AccountName>
+		<Name><![CDATA[testname]]></Name>
+		<CustEmail><![CDATA[test@gmail.com]]></CustEmail>
+		<CustPhone><![CDATA[123456789]]></CustPhone>
+		<Username><![CDATA[user]]></Username>
+		<UserEmail><![CDATA[user@abc.com]]></UserEmail>
+		<UserPassword><![CDATA[Test@1234]]></UserPassword>
+		<EditUserScreenName><![CDATA[screen]]></EditUserScreenName>
+		<EditUserEmail><![CDATA[edittestuser@abc.com]]></EditUserEmail>
+	</SetUp>
+</AppDetails>
