@@ -126,13 +126,11 @@ public class ExcelReportGenerator {
 				// Set style for Pass and Fail
 				if("fail".equalsIgnoreCase(test_method_status))
 				{
-					cel_status.setCellStyle(fail);
-					//count.createStyle("", book, cel_status);					
+					cel_status.setCellStyle(fail);			
 				}
 				else
 				{
 					cel_status.setCellStyle(pass);
-					//count.createStyle("", book, cel_status);
 				}
 				
 				// Get the exception for Fail cases
