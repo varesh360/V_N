@@ -42,6 +42,7 @@ public class LoginHelper extends DriverHelper
 	{
 		clickOn(LoginLocators.LOGIN);
 		waitForLoad(2000);
+		Assert.assertTrue(isElementPresent(LoginLocators.LOGOUT), "Logout link is not visible");
 	}
 	
 	/**
